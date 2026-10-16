@@ -12,11 +12,11 @@ Each page lives in its own directory as `index.html`. Shared styles are in `asse
 
 ## Update content
 
-Search for prices `£45`, `£540`, and `£60` in HTML files and structured data before changing offers. Contact details are in the shared header/footer markup repeated on each HTML page. WhatsApp uses `447478743023`, email is `jordancrosse_pt@hotmail.com`, and the booking CTA uses the Setmore URL. Update every occurrence when details change. Review sitemap.xml after adding pages.
+Search for prices `£45`, `£540`, and `£60` in HTML files and structured data before changing offers. Contact details are in the shared header/footer markup repeated on each HTML page. WhatsApp uses `447478743023`, email is `jordancrosse_pt@hotmail.com`, and booking CTAs use prefilled WhatsApp enquiries (wa.me/447478743023). Update every occurrence when details change. Review sitemap.xml after adding pages.
 
 ## Editorial checks
 
-`TODO` means the detail is not verified. Do not publish invented reviews, rating values, opening hours, parking arrangements, drive times, qualifications or class availability. The original Shopify-hosted photo is not yet self-hosted. The privacy page requires legal review before being relied upon as a complete policy.
+`TODO` means the detail is not verified. Tom's testimonial is an unapproved draft on the reviews page. Do not represent it as verified feedback before written approval. Do not publish invented reviews, rating values, opening hours, parking arrangements, drive times, qualifications or class availability. The original Shopify-hosted photo is not yet self-hosted. The privacy page requires legal review before being relied upon as a complete policy.
 
 ## Deployment
 
