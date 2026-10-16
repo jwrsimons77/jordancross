@@ -1,11 +1,11 @@
-# Audit notes (16 October 2026)
+# Jordan Crosse site audit update
 
-Source: https://jordancrosse.co.uk/
+Source: https://jordancrosse.co.uk/ and Jordan Crosse Personal Training Setmore booking profile.
 
-Verified: Jordan Crosse Coaching; in-person sessions at Total Fitness Wilmslow; free 45-minute taster; pack of 12 £540 (£45/session), pack of four £200 (£50/session), introductory pack of 12 £480 (£40/session); online coaching £60/month, no minimum commitment; indoor cycling qualification.
+Verified original photography: https://jordancrosse.co.uk/cdn/shop/files/IMG_3901.jpg?v=1759500315&width=3840 . This is referenced from the original site CDN (not yet locally optimised or self-hosted).
 
-Not verified: exact current colour hex codes, fonts, original image assets/logo, public phone number, full postal address, client testimonials, cycling timetable/prices, direct Calendly/Everfit signup links, existing privacy policy content. The visual identity in this rebuild is provisional, not asserted to match the source branding. Existing site links used as fallbacks where necessary. Replace before domain switch.
+Verified booking: https://jordancrossepersonaltraining.setmore.com/ . Telephone +44 7478 743023; email jordancrosse_pt@hotmail.com; in-person base Total Fitness Wilmslow, Wilmslow - Handforth Bypass, Wilmslow SK9 3PE.
 
-The source also exposes free 7-day mobility and free 8-week beginner strength programmes: these are not replicated in the static site because their checkout/download flow is unverified. Keep the existing store live until migrated separately.
+Colours in CSS are provisional based on visible JCPT shirt/logo (dark charcoal, burgundy/red), not verified original site HEX values. Original standalone logo and fonts still need extraction. Never describe these as exact matches.
 
-Performance metrics and accessibility conformance must be measured on actual mobile devices prior to launch. No fabricated reviews or ratings.
+SEO: eight static pages, title/description, schema, sitemap, robots, 3 redirects. Need Search Console, all-old-URLs migration, real performance test, review of source brand identity, and stronger distinct local page copy. Existing live Shopify site must not be disconnected before migration.
